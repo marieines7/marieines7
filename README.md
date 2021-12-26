@@ -1,6 +1,9 @@
 # marieines7
 [mloubet's 42 stats](https://badge42.herokuapp.com/api/stats/mloubet?cursus=42Cursus)
 
+<p>
+	<img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=marieines7">
+</p>
 
 
 <a href= "https://www.linkedin.com/in/marieinesloubet/">
