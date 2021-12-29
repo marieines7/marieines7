@@ -5,4 +5,4 @@
 <a href= "https://www.linkedin.com/in/marieinesloubet/">
 <img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[![mloubet's 42Project Score](https://badge42.herokuapp.com/api/project/intra_id/project_name)](https://github.com/mloubet/badge42)
+[![mloubet's 42Project Score](https://badge42.herokuapp.com/api/project/intra_id/Libft)](https://github.com/mloubet/badge42)
