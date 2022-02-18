@@ -1,4 +1,7 @@
 # marieines7
+
+Mantra : “Our doubts are traitors, And make us lose the good we oft might win, By fearing to attempt.” – William Shakespeare
+
 [![mloubet's 42 stats](https://badge42.herokuapp.com/api/stats/mloubet)](https://github.com/marieines7/marieines7)
 
 
