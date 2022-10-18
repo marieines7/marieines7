@@ -8,7 +8,7 @@
 
 ## 42 Status
 
-[![mloubet's 42 stats](https://badge42.vercel.app/api/v2/cl60tnaf7000609m5geezdizm/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+[![mloubet's 42 stats](https://badge42.vercel.app/api/v2/cl9e6845b00490gmgnhhgu2k1/stats?cursusId=21&coalitionId=12)](https://github.com/JaeSeoKim/badge42)
 
 
 
